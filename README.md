@@ -24,8 +24,6 @@ Una aplicación de preguntas y respuestas con más de 20 categorías, temporizad
 
 👉 **[Ver la app en GitHub Pages](https://TU_USUARIO.github.io/trivia-app)**
 
-*(reemplaza `TU_USUARIO` con tu usuario de GitHub una vez desplegado)*
-
 ---
 
 ## 🛠 Instalación local
@@ -70,16 +68,16 @@ Genera la carpeta `build/` con todos los archivos optimizados.
 
 2. **Edita `package.json`**: cambia la línea `homepage` con tu usuario:
    ```json
-   "homepage": "https://TU_USUARIO.github.io/trivia-app"
+   "homepage": "https://olista94.github.io/trivia-app/"
    ```
 
 3. **Conecta y despliega:**
    ```bash
    git init
    git add .
-   git commit -m "🚀 Initial commit"
+   git commit -m "Initial commit"
    git branch -M main
-   git remote add origin https://github.com/TU_USUARIO/trivia-app.git
+   git remote add origin https://github.com/olista94/trivia-app.git
    git push -u origin main
 
    npm install
