@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/olista94/trivia-app/static/css/main.e9339048.css",
+    "main.js": "/olista94/trivia-app/static/js/main.0166639a.js",
+    "index.html": "/olista94/trivia-app/index.html",
+    "main.e9339048.css.map": "/olista94/trivia-app/static/css/main.e9339048.css.map",
+    "main.0166639a.js.map": "/olista94/trivia-app/static/js/main.0166639a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9339048.css",
+    "static/js/main.0166639a.js"
+  ]
+}
